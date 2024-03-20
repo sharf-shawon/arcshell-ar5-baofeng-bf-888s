@@ -11,7 +11,7 @@ I you have information that you think might be valuable to others like yourself 
 
 This repository includes:
 
-- Users guides 
+- [Users Manual](https://manuals.plus/arcshell/ar-5-rechargeable-long-range-two-way-radio-manual.pdf)
 - Usage tips and best practices
 - Troubleshooting techniques
 - Frequently Asked Questions (FAQs)
