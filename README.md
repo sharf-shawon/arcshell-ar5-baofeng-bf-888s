@@ -113,6 +113,10 @@ You can either purchase one or create your own using a USB to Serial FTDI conver
 
 *Credits: Diagram sourced from [Miklor.com](https://www.miklor.com/COM/UV_Technical.php)*
 
+Following is a photo of my DIY USB Radio Programmer:
+
+![My DIY USB Radio Programmer](my-diy-usb-radio-programmer.jpg)
+
 ## Programming Software
 
 Once you have a programming cable, you may download [CHIRP](https://chirpmyradio.com/projects/chirp/wiki/Download) to program your radio. For guidance on using CHIRP, refer to this [YouTube video](https://www.youtube.com/watch?v=XQ_JzivmjyI) from NotaRubicon Productions.
