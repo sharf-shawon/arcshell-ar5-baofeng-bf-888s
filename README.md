@@ -1,4 +1,6 @@
-# Arcshell AR-5 Radios Documentation Repository
+# Arcshell AR-5 Radio Documentation
+
+![Arcshell AR-5 Radio Pair](images/arcshell-ar-5-pair.jpg)
 
 This repository serves as a comprehensive resource for beginners and enthusiasts who have purchased Arcshell AR-5 radios. Whether you're seeking detailed information or guidance on usage, this repository aims to simplify the learning process by gathering valuable insights, tips, and resources in one place.
 
@@ -29,6 +31,9 @@ Feel free to contribute any valuable information you have to make this repositor
 ## User's Manual
 
 If you've misplaced your user's manual, you can find a copy on [Manuals.Plus](https://manuals.plus/arcshell/ar-5-rechargeable-long-range-two-way-radio-manual.pdf).
+
+![Arcshell AR-5 Radio](images/arcshell-ar-5.jpg)
+
 
 ## Default Channel Frequencies
 
