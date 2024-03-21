@@ -103,17 +103,17 @@ Here are the FRS channel frequencies:
 
 To program your Arcshell AR-5 radios, you'll need a programming cable like this one:
 
-![Baofeng USB Programming Cable](Baofeng-USB-Programming-Cable.webp)
+![Baofeng USB Programming Cable](images/baofeng-usb-programming-cable.webp)
 
 You can either purchase one or create your own using a USB to Serial FTDI converter. Here's a diagram for the DIY programming cable:
 
-![DIY Programming Cable Diagram](cp2102-radio-programmer.jpg)
+![DIY Programming Cable Diagram](images/cp2102-radio-programmer.jpg)
 
 *Credits: Diagram sourced from [Miklor.com](https://www.miklor.com/COM/UV_Technical.php)*
 
 Following is a photo of my DIY USB Radio Programmer:
 
-![My DIY USB Radio Programmer](my-diy-usb-radio-programmer.jpg)
+![My DIY USB Radio Programmer](images/my-diy-usb-radio-programmer.jpg)
 
 ## Programming Software
 
@@ -143,7 +143,7 @@ This setup is ideal if you intend to distribute radios to your children without 
 
 Here's an image of where I setup Arcshell AR-5 radios alongside my existing [Walmart brand walkie talkies](https://www.walmart.com/ip/Onn-23-mile-Walkie-Talkie-3-pack-with-Two-Way-Radios-LED-Light-22-FRS-Channel-Options/1027134774):
 
-![My Setup](my-setup.jpg)
+![My Setup](images/my-setup.jpg)
 
 
 *I also named my radios for easy tracking and simply for the fun of it. :wink:*
