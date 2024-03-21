@@ -97,7 +97,8 @@ Here are the FRS channel frequencies:
 (2) GMRS repeater output.
 (3) GMRS repeater input only.
 
-*[Credits](https://wiki.radioreference.com/index.php/FRS/GMRS_combined_channel_chart)*
+*[Credits]()*
+*Credits: FRS Channel Information sourced from [RadioReference.com](https://wiki.radioreference.com/index.php/FRS/GMRS_combined_channel_chart)*
 
 For suggested and unofficial channel usages, see the [Family Radio Service and General Mobile Radio Service wiki articles](https://wiki.radioreference.com/index.php/FRS/GMRS_combined_channel_chart).
 
