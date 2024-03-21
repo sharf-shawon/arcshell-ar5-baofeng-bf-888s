@@ -130,11 +130,12 @@ If you have previously owned other walkie talkies and wish to use them alongside
 
 Check the user manual or specifications of your other walkie talkies to verify their frequency bands and supported modes.
 
+### Usage
+This setup is ideal if you intend to distribute radios to your children without concern about them transmitting on frequencies other than FRS. You can provide the walkie talkies to your children while carrying the 'adult radios' yourself.
+
 ### Channel Configuration
 
 If your previous Walkie Talkies use FRS channels, you can configure your Arcshell AR-5 radios to use compatible channels. By programming your AR-5 radios to operate on FRS channels, you can effectively communicate with your previous walkie talkies.
-
-This setup is ideal if you intend to distribute radios to your children without concern about them transmitting on frequencies other than FRS. You can provide the walkie talkies to your children while carrying the 'adult radios' yourself.
 
 ### Programming Process
 
@@ -151,7 +152,7 @@ Here's an image of where I setup Arcshell AR-5 radios alongside my existing [Wal
 ![My Setup](images/my-setup.jpg)
 
 
-*I also named my radios for easy tracking and simply for the fun of it. :wink:*
+*I also named my radios for easy tracking and simply for the fun of it. :wink: If you are wondering where these names came from, they are [traditional Bangladeshi iftar items](https://accordingtoathena.files.wordpress.com/2015/07/fullsizerender-26.jpg). :bangladesh:*
 
 ## How to Contribute
 
