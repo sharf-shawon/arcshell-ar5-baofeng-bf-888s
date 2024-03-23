@@ -123,11 +123,13 @@ Following is a photo of my DIY USB Radio Programmer:
 
 Once you have a programming cable, you may download [CHIRP](https://chirpmyradio.com/projects/chirp/wiki/Download) to program your radio. For guidance on using CHIRP, refer to this [YouTube video](https://www.youtube.com/watch?v=XQ_JzivmjyI) from NotaRubicon Productions.
 
-## Use with Other Walkie Talkies
+## Use with Walkie Talkies
 
 If you have previously owned other walkie talkies and wish to use them alongside your Arcshell AR-5 radios, you need to ensure compatibility and proper channel settings.
 
 Check the user manual or specifications of your other walkie talkies to verify their frequency bands and supported modes.
+
+***Legal Note:** You still need a license to transmit on FRS frequencies using GMRS radios. Maximum allowed power to transmit on FRS channels without a license is 0.5W.*
 
 ### Usage
 This setup is ideal if you intend to distribute radios to your children without concern about them transmitting on frequencies other than FRS. You can provide the walkie talkies to your children while carrying the 'adult radios' yourself.
@@ -135,6 +137,9 @@ This setup is ideal if you intend to distribute radios to your children without 
 ### Channel Configuration
 
 If your previous Walkie Talkies use FRS channels, you can configure your Arcshell AR-5 radios to use compatible channels. By programming your AR-5 radios to operate on FRS channels, you can effectively communicate with your previous walkie talkies.
+
+Tip: "Channels 15-22, (however,) offer GMRS users the highest power option, so these are preferred for tactical communications." -[CERT-LA](https://www.cert-la.com/downloads/radio/FRS-GMRS-Frequency-Chart.pdf)
+
 
 ### Programming Process
 
