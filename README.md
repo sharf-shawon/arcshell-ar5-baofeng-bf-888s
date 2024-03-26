@@ -31,7 +31,7 @@ Feel free to contribute any valuable information you have to make this repositor
 
 ## User's Manual
 
-If you've misplaced your user's manual, you can find a copy on [Manuals.Plus](https://manuals.plus/arcshell/ar-5-rechargeable-long-range-two-way-radio-manual.pdf).
+If you've misplaced your user's manual, you can find a copy on [FCC Website](https://fcc.report/FCC-ID/2ARTCARAR/5466687.pdf).
 
 ![Arcshell AR-5 Radio](images/arcshell-ar-5.jpg)
 
