@@ -1,8 +1,10 @@
-# Arcshell AR-5 Radio Documentation
+# Arcshell AR-5 / BaoFeng BF-888s Radio Documentation
 
 ![Arcshell AR-5 Radio Pair](images/arcshell-ar-5-pair.jpg)
 
 This repository serves as a comprehensive resource for beginners and enthusiasts who have purchased Arcshell AR-5 radios. Whether you're seeking detailed information or guidance on usage, this repository aims to simplify the learning process by gathering valuable insights, tips, and resources in one place.
+
+Arcshell AR-5 radios are said to be a rebrand of BAOFENG BF-888S radios, so I added it to the title for better search visibility.
 
 Feel free to contribute any valuable information you have to make this repository more helpful for others.
 
@@ -26,7 +28,6 @@ Feel free to contribute any valuable information you have to make this repositor
 - **Licensing:** If you are willing to get a license for this radio, a GMRS license costs $35 and covers your entire family.
 - **Repeater Usage:** If you have a license, you can find "open" access repeaters in your local area to extend the range of your radios.
 - **Repeater Etiquette:** When using a repeater, you must follow the etiquettes.
-- Arcshell AR-5 radios are said to be a rebrand of BAOFENG BF-888S radios.
 
 ## User's Manual
 
@@ -109,7 +110,7 @@ To program your Arcshell AR-5 radios, you'll need a programming cable like this 
 
 ![Baofeng USB Programming Cable](images/baofeng-usb-programming-cable.webp)
 
-You can either purchase one or create your own using a USB to Serial FTDI converter. Here's a diagram for the DIY programming cable:
+You can either purchase one for [less than $2 from AliExpress](https://www.aliexpress.us/item/3256805744418678.html) or create your own using a USB to Serial FTDI converter. Here's a diagram for the DIY programming cable:
 
 ![DIY Programming Cable Diagram](images/cp2102-radio-programmer.jpg)
 
@@ -129,7 +130,7 @@ If you have previously owned other walkie talkies and wish to use them alongside
 
 Check the user manual or specifications of your other walkie talkies to verify their frequency bands and supported modes.
 
-***Legal Note:** You still need a license to transmit on FRS frequencies using GMRS radios. Maximum allowed power to transmit on FRS channels without a license is 0.5W.*
+***Legal Note:** You still need a license to transmit on FRS frequencies using GMRS radios. Maximum allowed power to transmit on FRS channels without a license is 0.5-2.0W.*
 
 ### Usage
 This setup is ideal if you intend to distribute radios to your children without concern about them transmitting on frequencies other than FRS. You can provide the walkie talkies to your children while carrying the 'adult radios' yourself.
@@ -164,6 +165,6 @@ Contributions to this documentation repository are highly encouraged! Whether yo
 
 ## Feedback and Suggestions
 
-Your feedback is essential in improving this documentation repository. If you have any suggestions or encounter any issues, please don't hesitate to open an issue or reach out to the repository maintainer.
+Your contribution is essential in improving this documentation. If you have any suggestions, feedbacks, and/or encounter any issues, please don't hesitate to open an issue or reach out to me.
 
-Let's work together to make the Arcshel AR-5 Radios Documentation Repository a valuable resource for everyone!
+Let's work together to make this repository a valuable resource for everyone!
