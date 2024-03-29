@@ -24,10 +24,10 @@ Feel free to contribute any valuable information you have to make this repositor
 
 ## Important Information
 - **Legal Considerations:** The default channels that come with the radio can clash with federal agencies and can lead to potential legal charges and fines.
-- **Channel Usage:** You can safely use the radios within FRS channels without a license.
 - **Licensing:** Apparently [Arcshell AR-5 radios are FCC Part 90 certified](https://fcc.report/FCC-ID/2ARTCARAR/5466678), instead of Part 95 for GMRS. So, you will need an Amateur Radio License to transmit using these, legally. 
 - **Repeater Usage:** If you have a license, you can find "open" access repeaters in your local area to extend the range of your radios.
 - **Repeater Etiquette:** When using a repeater, you must follow the etiquettes.
+- ~~**Channel Usage:** You can safely use the radios within FRS channels without a license.~~
 - ~~**Licensing:** If you are willing to get a license for this radio, a GMRS license costs $35 and covers your entire family.~~
 
 ## User's Manual
