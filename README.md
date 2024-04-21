@@ -14,7 +14,7 @@ Feel free to contribute any valuable information you have to make this repositor
 
 - [Important Information](#important-information)
 - [User's Manual](#users-manual)
-- [Factory Default Images (Arcshell AR-5, Baofeng BF-888s, Pxton PX-888s)](#factory-default-images)
+- [Factory Default CHIRP Images](#factory-default-chirp-images)
 - [Default Channel Frequencies](#default-channel-frequencies)
 - [FRS Channel Frequencies](#frs-channel-frequencies)
 - [DIY Programming Cable](#diy-programming-cable)
@@ -37,7 +37,7 @@ If you've misplaced your user's manual, you can find a copy on [FCC Website](htt
 
 ![Arcshell AR-5 Radio](assets/images/arcshell-ar-5.jpg)
 
-## Factory Default Images for Arcshell AR-5, Baofeng BF-888s, Pxton PX-888s
+## Factory Default CHIRP Images
 
 The factory default (aka virgin config) CHIRP img files can be found in the [/factory-default-images](/factory-default-images/) directory of this repositories. So far the collection includes the identical three models specified above. Links to the images:
 - [Arcshell AR-5 - Factory Default.img](/factory-default-images/Arcshell-AR-5-FactoryDefault.img)
