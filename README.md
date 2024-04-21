@@ -40,9 +40,9 @@ If you've misplaced your user's manual, you can find a copy on [FCC Website](htt
 ## Factory Default Images for Arcshell AR-5, Baofeng BF-888s, Pxton PX-888s
 
 The factory default (aka virgin config) CHIRP img files can be found in the [/factory-default-images](/factory-default-images/) directory of this repositories. So far the collection includes the identical three models specified above. Links to the images:
-- [Arcshell AR-5 - Factory Default.img]("/factory-default-images/Arcshell AR-5 - Factory Default.img")
-- [Baofeng BF-888s - Factory Default.img]("/factory-default-images/Baofeng BF-888s - Factory Default.img")
-- [Pxton PX-888s - Factory Default.img]("/factory-default-images/Pxton PX-888s - Factory Default.img")
+- [Arcshell AR-5 - Factory Default.img](/factory-default-images/Arcshell-AR-5-FactoryDefault.img)
+- [Baofeng BF-888s - Factory Default.img](/factory-default-images/BaofengBF-888s-FactoryDefault.img)
+- [Pxton PX-888s - Factory Default.img](/factory-default-images/PxtonPX-888s-FactoryDefault.img)
 
 ## Default Channel Frequencies
 
