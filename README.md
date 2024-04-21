@@ -1,10 +1,10 @@
-# Arcshell AR-5 / BaoFeng BF-888s Radio Documentation
+# Arcshell AR-5 / BaoFeng BF-888s / Pxton PX-888s Radio Documentation
 
-![Arcshell AR-5 Radio Pair](images/arcshell-ar-5-pair.jpg)
+![Arcshell AR-5 Radio Pair](assets/images/arcshell-ar-5-pair.jpg)
 
 This repository serves as a comprehensive resource for beginners and enthusiasts who have purchased Arcshell AR-5 radios. Whether you're seeking detailed information or guidance on usage, this repository aims to simplify the learning process by gathering valuable insights, tips, and resources in one place.
 
-Arcshell AR-5 radios are said to be a rebrand of BAOFENG BF-888S radios, so I added it to the title for better search visibility.
+Arcshell AR-5, Pxton PX-888s and some more radios are said to be a rebrand of BAOFENG BF-888S radios. They also seem to have the same/similar circuitry inside, so I added it to the title for better search visibility.
 
 Feel free to contribute any valuable information you have to make this repository more helpful for others.
 
@@ -14,6 +14,7 @@ Feel free to contribute any valuable information you have to make this repositor
 
 - [Important Information](#important-information)
 - [User's Manual](#users-manual)
+- [Factory Default Images (Arcshell AR-5, Baofeng BF-888s, Pxton PX-888s)](#factory-default-images)
 - [Default Channel Frequencies](#default-channel-frequencies)
 - [FRS Channel Frequencies](#frs-channel-frequencies)
 - [DIY Programming Cable](#diy-programming-cable)
@@ -24,18 +25,24 @@ Feel free to contribute any valuable information you have to make this repositor
 
 ## Important Information
 - **Legal Considerations:** The default channels that come with the radio can clash with federal agencies and can lead to potential legal charges and fines.
-- **Licensing:** Apparently [Arcshell AR-5 radios are FCC Part 90 certified](https://fcc.report/FCC-ID/2ARTCARAR/5466678), instead of Part 95 for GMRS. So, you will need an Amateur Radio License to transmit using these, legally. 
-- **Repeater Usage:** If you have a license, you can find "open" access repeaters in your local area to extend the range of your radios.
+- **Licensing:** Apparently [Arcshell AR-5 radios are FCC Part 90 certified](https://fcc.report/FCC-ID/2ARTCARAR/5466678), instead of Part 95 for GMRS. So, you will need an Amateur Radio License to legally transmit using these. 
+- **Repeater Usage:** If you have a license, you can find "open" access repeaters in your local area to extend the range of your radios. Use of some repeaters may be subject to repeater owner's permission.
 - **Repeater Etiquette:** When using a repeater, you must follow the etiquettes.
-- ~~**Channel Usage:** You can safely use the radios within FRS channels without a license.~~
+- ~~**Channel Usage:**You can safely use the radios within FRS channels without a license.~~
 - ~~**Licensing:** If you are willing to get a license for this radio, a GMRS license costs $35 and covers your entire family.~~
 
 ## User's Manual
 
-If you've misplaced your user's manual, you can find a copy on [FCC Website](https://fcc.report/FCC-ID/2ARTCARAR/5466687.pdf).
+If you've misplaced your user's manual, you can find a copy on [FCC Website](https://fcc.report/FCC-ID/2ARTCARAR/5466687.pdf). This specific manual is for the Arcshell AR-5, however, Baofeng BF-888s and Pxton PX-888s been tested to have the exact same functions and features - so this manual should be sufficient.
 
-![Arcshell AR-5 Radio](images/arcshell-ar-5.jpg)
+![Arcshell AR-5 Radio](assets/images/arcshell-ar-5.jpg)
 
+## Factory Default Images for Arcshell AR-5, Baofeng BF-888s, Pxton PX-888s
+
+The factory default (aka virgin config) CHIRP img files can be found in the [/factory-default-images](/factory-default-images/) directory of this repositories. So far the collection includes the identical three models specified above. Links to the images:
+- [Arcshell AR-5 - Factory Default.img]("/factory-default-images/Arcshell AR-5 - Factory Default.img")
+- [Baofeng BF-888s - Factory Default.img]("/factory-default-images/Baofeng BF-888s - Factory Default.img")
+- [Pxton PX-888s - Factory Default.img]("/factory-default-images/Pxton PX-888s - Factory Default.img")
 
 ## Default Channel Frequencies
 
@@ -109,17 +116,17 @@ Here are the FRS channel frequencies:
 
 To program your Arcshell AR-5 radios, you'll need a programming cable like this one:
 
-![Baofeng USB Programming Cable](images/baofeng-usb-programming-cable.webp)
+![Baofeng USB Programming Cable](assets/images/baofeng-usb-programming-cable.webp)
 
 You can either purchase one for [less than $2 from AliExpress](https://www.aliexpress.us/item/3256805744418678.html) or create your own using a USB to Serial FTDI converter. Here's a diagram for the DIY programming cable:
 
-![DIY Programming Cable Diagram](images/cp2102-radio-programmer.jpg)
+![DIY Programming Cable Diagram](assets/images/cp2102-radio-programmer.jpg)
 
 *Credits: Diagram sourced from [Miklor.com](https://www.miklor.com/COM/UV_Technical.php)*
 
 Following is a photo of my DIY USB Radio Programmer:
 
-![My DIY USB Radio Programmer](images/my-diy-usb-radio-programmer.jpg)
+![My DIY USB Radio Programmer](assets/images/my-diy-usb-radio-programmer.jpg)
 
 ## Programming Software
 
@@ -155,10 +162,12 @@ Tip: "Channels 15-22, (however,) offer GMRS users the highest power option, so t
 
 Here's an image of where I setup Arcshell AR-5 radios alongside my existing [Walmart brand walkie talkies](https://www.walmart.com/ip/Onn-23-mile-Walkie-Talkie-3-pack-with-Two-Way-Radios-LED-Light-22-FRS-Channel-Options/1027134774):
 
-![My Setup](images/my-setup.jpg)
+![My Setup](assets/images/my-setup.jpg)
 
 
 *I also named my radios for easy tracking and simply for the fun of it. :wink: If you are wondering where these names came from, they are [traditional Bangladeshi iftar items](https://accordingtoathena.files.wordpress.com/2015/07/fullsizerender-26.jpg). :bangladesh:*
+
+[Update: I have also acquired a Baofeng BF-888S and a Pxton PX-888s radios since the last picture was taken. I can confirm the above mentioned tests to work from personal experience.]
 
 ## How to Contribute
 
