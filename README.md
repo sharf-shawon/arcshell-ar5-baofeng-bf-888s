@@ -31,7 +31,7 @@ Feel free to contribute any valuable information you have to make this repositor
 - **Repeater Etiquette:** When using a repeater, you must follow the etiquettes.
 - 
 - ~~**Channel Usage:**You can safely use the radios within FRS channels without a license.~~ Legally, you need a license to transmit using this radio. Regardless of which channel/frequency you are using.  
-- ~~**Licensing:** If you are willing to get a license for this radio, a GMRS license costs $35 and covers your entire family.~~ You will need a HAM Radio license. 
+- ~~**Licensing:** If you are willing to get a license for this radio, a GMRS license costs $35 and covers your entire family.~~ You will need a HAM Radio license. [More About Licensing](#licensing-information)
 
 ## User's Manual
 
