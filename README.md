@@ -161,7 +161,7 @@ Tip: "Channels 15-22, (however,) offer GMRS users the highest power option, so t
 3. Once programmed, test the communication between your Arcshell AR-5 radios and the walkie talkies.
 
 ## Licensing Information
-As mentioned above, you legally need a license to transmit using this radio. Regardless of which channel/frequency you are using. To get this license you will need to take a test, which lasts for 10 years. The test itestf is pretty inexpensive (~$35). Apparently, most people are passing the exam with a weeks preparation. There are plenty of websites available for free practise test. 
+As mentioned above, you legally need a license to transmit using this radio. Regardless of which channel/frequency you are using. To get this license you will need to take a test, which lasts for 10 years. The test itestf is pretty inexpensive (~$35). Apparently, most people are passing the exam with a weeks preparation. There are plenty of websites available for free practise test. AND you can even **take the test online**!
 
 ### Free practice and procotored online exams  (google results, unverified):
 - https://hamradioprep.com/free-ham-radio-practice-tests/
