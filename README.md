@@ -19,6 +19,7 @@ Feel free to contribute any valuable information you have to make this repositor
 - [FRS Channel Frequencies](#frs-channel-frequencies)
 - [DIY Programming Cable](#diy-programming-cable)
 - [Programming Software](#programming-software)
+- [Licensing Information](#licensing-information)
 - [Use with previous Walkie Talkies](#programming-software)
 - [How to Contribute](#how-to-contribute)
 - [Feedback and Suggestions](#feedback-and-suggestions)
@@ -28,8 +29,9 @@ Feel free to contribute any valuable information you have to make this repositor
 - **Licensing:** Apparently [Arcshell AR-5 radios are FCC Part 90 certified](https://fcc.report/FCC-ID/2ARTCARAR/5466678), instead of Part 95 for GMRS. So, you will need an Amateur Radio License to legally transmit using these. 
 - **Repeater Usage:** If you have a license, you can find "open" access repeaters in your local area to extend the range of your radios. Use of some repeaters may be subject to repeater owner's permission.
 - **Repeater Etiquette:** When using a repeater, you must follow the etiquettes.
-- ~~**Channel Usage:**You can safely use the radios within FRS channels without a license.~~
-- ~~**Licensing:** If you are willing to get a license for this radio, a GMRS license costs $35 and covers your entire family.~~
+- 
+- ~~**Channel Usage:**You can safely use the radios within FRS channels without a license.~~ Legally, you need a license to transmit using this radio. Regardless of which channel/frequency you are using.  
+- ~~**Licensing:** If you are willing to get a license for this radio, a GMRS license costs $35 and covers your entire family.~~ You will need a HAM Radio license. 
 
 ## User's Manual
 
@@ -157,6 +159,14 @@ Tip: "Channels 15-22, (however,) offer GMRS users the highest power option, so t
 2. Program your Arcshell AR-5 radios to use the same [FRS Channels](#frs-channel-frequencies). Use the programming software and cable mentioned earlier in this documentation to configure the channel settings of your AR-5 radios accordingly.
 
 3. Once programmed, test the communication between your Arcshell AR-5 radios and the walkie talkies.
+
+## Licensing Information
+As mentioned above, you legally need a license to transmit using this radio. Regardless of which channel/frequency you are using. To get this license you will need to take a test, which lasts for 10 years. The test itestf is pretty inexpensive (~$35). Apparently, most people are passing the exam with a weeks preparation. There are plenty of websites available for free practise test. 
+
+### Free practice and procotored online exams  (google results, unverified):
+- https://hamradioprep.com/free-ham-radio-practice-tests/
+- https://hamstudy.org/
+- https://hamexam.org/ 
 
 #### Example Setup
 
