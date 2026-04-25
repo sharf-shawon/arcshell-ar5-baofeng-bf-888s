@@ -1,0 +1,30 @@
+/* Custom overrides for Just the Docs theme */
+
+.btn-blue {
+    background-color: #007bff;
+    color: white !important;
+}
+
+.btn-blue:hover {
+    background-color: #0056b3;
+}
+
+/* Callout boxes */
+.callout {
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border-left: 0.25rem solid;
+    border-radius: 0.25rem;
+}
+
+.callout-warning {
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+    color: #856404;
+}
+
+.callout-info {
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+    color: #0c5460;
+}
