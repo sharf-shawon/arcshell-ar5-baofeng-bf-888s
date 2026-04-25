@@ -12,6 +12,7 @@ Radio is a shared resource. Following proper etiquette ensures everyone can comm
 ---
 
 ## The Golden Rules
+
 1.  **Listen Before You Talk:** Always listen for a few seconds to ensure the channel is clear before pressing the PTT button.
 2.  **Identify Yourself:** If using Ham frequencies, you must give your callsign every 10 minutes and at the end of your conversation.
 3.  **Be Concise:** Keep your transmissions short. Don't "monopolize" the frequency.
@@ -20,6 +21,7 @@ Radio is a shared resource. Following proper etiquette ensures everyone can comm
 ---
 
 ## 🔤 The Phonetic Alphabet
+
 When signal quality is poor, use these words to spell out your callsign or important information:
 
 | Letter | Word | Letter | Word |
@@ -41,6 +43,7 @@ When signal quality is poor, use these words to spell out your callsign or impor
 ---
 
 ## Common Q-Codes
+
 Hams use "Q-Codes" to say a lot with a little:
 - **QSO:** A conversation.
 - **QTH:** Your location.

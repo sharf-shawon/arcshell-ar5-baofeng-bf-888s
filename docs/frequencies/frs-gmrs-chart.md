@@ -38,6 +38,7 @@ Use this chart to program your Arcshell AR-5 or BaoFeng BF-888S to talk to consu
 ---
 
 ## ⚠️ Important Note
-While you can program these frequencies into your radio, these radios are **not FCC certified for FRS or GMRS**. This is because they have a removable antenna and can transmit at higher power levels than FRS allows. 
+
+While you can program these frequencies into your radio, these radios are **not FCC certified for FRS or GMRS**. This is because they have a removable antenna and can transmit at higher power levels than FRS allows.
 
 **Legal use of these frequencies on these radios technically requires a GMRS license or a Ham license (depending on your local laws).**

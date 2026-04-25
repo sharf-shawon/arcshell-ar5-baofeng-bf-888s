@@ -17,7 +17,7 @@ plugins:
 
 # SEO Metadata
 twitter:
-  username: 
+  username:
   card: summary_large_image
 logo: "/assets/images/arcshell-ar-5.jpg"
 

@@ -28,6 +28,7 @@ The Arcshell AR-5 and BaoFeng BF-888S are typically **Part 90 certified**.
 | **FRS / GMRS** | ❌ NOT Certified | Technically illegal to use on FRS/GMRS bands because the antenna is removable and power exceeds limits. |
 
 ### Common Misconceptions (All FALSE)
+
 - ❌ "I can use FRS channels (1-22) without a license."
 - ❌ "It's okay as long as I don't interfere with anyone."
 - ❌ "I only use it for emergencies, so I don't need a license."
@@ -39,12 +40,14 @@ The Arcshell AR-5 and BaoFeng BF-888S are typically **Part 90 certified**.
 Getting licensed is the best way to enjoy your radio legally and safely. The entry-level license is the **Technician Class**.
 
 ### Why Get Licensed?
+
 - **Legal Peace of Mind:** Transmit on thousands of frequencies without fear of fines.
 - **Access to Repeaters:** Use community-maintained towers to talk across cities or states.
 - **Emergency Preparedness:** Be part of a vital communication network during disasters.
 - **Community:** Join a global network of over 750,000 operators in the US alone.
 
 ### How to Pass the Technician Exam
+
 The exam consists of **35 multiple-choice questions**. You need **26 correct** (74%) to pass.
 
 1.  **Study (1-2 Weeks):** Use free resources like [HamStudy.org](https://hamstudy.org/) or [HamRadioPrep.com](https://hamradioprep.com/).
@@ -55,6 +58,7 @@ The exam consists of **35 multiple-choice questions**. You need **26 correct** (
 ---
 
 ## 🌍 International Use
+
 If you are outside the USA, your regulations will vary:
 - **UK/Europe:** Look into Ofcom or your national regulator. PMR446 is the common license-free standard (similar to FRS).
 - **Canada:** Regulated by Innovation, Science and Economic Development Canada (ISED).
@@ -63,4 +67,5 @@ If you are outside the USA, your regulations will vary:
 ---
 
 ## 🚑 Emergency Exception
+
 The FCC rules (Part 97.403) allow unlicensed transmission **only in immediate instances where life or property is threatened** and no other communication is possible. This is not a "loophole" for general use; it is a last-resort safety measure.

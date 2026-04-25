@@ -15,7 +15,7 @@ Congratulations on your new radio! This guide will take you from unboxing to you
 
 **Listening is free; transmitting requires a license.**
 
-The BaoFeng BF-888S and Arcshell AR-5 are powerful handheld radios. In the United States, transmitting on these radios requires a **valid Amateur Radio (Ham) license**. 
+The BaoFeng BF-888S and Arcshell AR-5 are powerful handheld radios. In the United States, transmitting on these radios requires a **valid Amateur Radio (Ham) license**.
 
 - **Listening (Receiving):** Perfectly legal for anyone. Feel free to scan and listen!
 - **Transmitting:** Illegal without a license. Fines can reach up to $10,000.
@@ -55,6 +55,7 @@ Use this checklist to ensure you're ready for the airwaves:
 ---
 
 ## Next Steps
+
 Ready to dive deeper?
 - [Learn about Programming with CHIRP →]({{ site.baseurl }}/programming/)
 - [See the Frequency Reference charts →]({{ site.baseurl }}/frequencies/)

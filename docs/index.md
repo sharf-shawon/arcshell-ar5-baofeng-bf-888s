@@ -47,4 +47,5 @@ Lost your original settings? We maintain a library of factory default images for
 ---
 
 ## Community
+
 This is an open-source project. If you find an error or want to contribute a frequency list, please [open an issue](https://github.com/mshawon/arcshell-ar5-baofeng-bf-888s/issues) or submit a pull request!

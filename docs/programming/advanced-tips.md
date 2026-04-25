@@ -13,6 +13,7 @@ Once you're comfortable with the basics, use these tips to speed up your workflo
 ---
 
 ## ⌨️ Keyboard Shortcuts
+
 Save time while editing large frequency lists:
 - `Ctrl + C` / `Ctrl + V`: Copy and paste entire rows.
 - `Ctrl + Z`: Undo the last change.
@@ -22,6 +23,7 @@ Save time while editing large frequency lists:
 ---
 
 ## 📂 Importing & Exporting
+
 You don't have to manually type every frequency.
 - **CSV Export:** Save your channel list as a `.csv` file to share it with others or edit it in Excel.
 - **Stock Configs:** In CHIRP, go to **File > Open Stock Config** to quickly load FRS, GMRS, or Marine frequencies (useful for reference).
@@ -29,6 +31,7 @@ You don't have to manually type every frequency.
 ---
 
 ## 🛠️ Bulk Editing
+
 Want to change the Power level or Tone for 10 channels at once?
 1.  Highlight the channels you want to change (use `Shift + Click`).
 2.  Right-click on one of the highlighted cells.
@@ -37,6 +40,7 @@ Want to change the Power level or Tone for 10 channels at once?
 ---
 
 ## 📡 Settings Tab
+
 Don't forget the **Settings** tab on the left sidebar in CHIRP. Here you can:
 - **Squelch Level:** Typically set to `3` or `5`.
 - **Battery Saver:** Enable this to extend your radio's life.

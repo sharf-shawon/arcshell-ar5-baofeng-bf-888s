@@ -9,6 +9,7 @@
 ---
 
 ## 🚀 View the Full Guide
+
 Our comprehensive documentation, including programming tutorials, legal information, and frequency charts, is now available at:
 
 ### 👉 **[https://mshawon.github.io/arcshell-ar5-baofeng-bf-888s/](https://mshawon.github.io/arcshell-ar5-baofeng-bf-888s/)**
@@ -16,11 +17,13 @@ Our comprehensive documentation, including programming tutorials, legal informat
 ---
 
 ## ⭐ Star This Repo
+
 If you found this guide helpful, please **star the repository**! It helps others find this resource and builds social proof for the project.
 
 ---
 
 ## 🛠️ What's Inside?
+
 - **Quick Start:** From unboxing to listening in 5 minutes.
 - **Programming:** Step-by-step CHIRP tutorials for all skill levels.
 - **Factory Defaults:** Lost your backup? Download original `.img` files here.
@@ -30,9 +33,11 @@ If you found this guide helpful, please **star the repository**! It helps others
 ---
 
 ## 🤝 Contributing
+
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to report errors or add new content.
 
 ---
 
 ## ⚖️ License
+
 This project is distributed under the **Apache 2.0 License**. See [LICENSE](LICENSE) for more information.

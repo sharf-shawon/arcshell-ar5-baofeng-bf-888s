@@ -13,6 +13,7 @@ CHIRP is the free, open-source industry standard for programming handheld radios
 ---
 
 ## 1. Download CHIRP
+
 Always download CHIRP from the official website to ensure you have the latest version (CHIRP-next).
 
 - **Official Download:** [chirpmyradio.com](https://chirpmyradio.com/projects/chirp/wiki/Download)
@@ -20,6 +21,7 @@ Always download CHIRP from the official website to ensure you have the latest ve
 ---
 
 ## 2. Install Drivers
+
 This is the most common hurdle. Most cheap programming cables use "clone" chips that require specific drivers.
 
 - **Windows 10/11:** Usually handles drivers automatically. If you see a yellow triangle in Device Manager, try the [Prolific](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225) or [CH340](http://www.wch-ic.com/downloads/CH341SER_EXE.html) drivers.
@@ -30,6 +32,7 @@ This is the most common hurdle. Most cheap programming cables use "clone" chips 
 ---
 
 ## 3. Connect the Hardware
+
 1.  **Turn the radio OFF.**
 2.  Plug the USB cable into your computer.
 3.  Plug the 2-pin connector into the radio. **Push hard** until it clicks; it needs a very snug connection.
@@ -38,7 +41,8 @@ This is the most common hurdle. Most cheap programming cables use "clone" chips 
 ---
 
 ## 4. Verify the Connection
-In CHIRP, go to **Radio > Download from Radio**. 
+
+In CHIRP, go to **Radio > Download from Radio**.
 - **Port:** Select the one that says "USB" or "COM3/4".
 - **Vendor:** Select `Baofeng`.
 - **Model:** Select `BF-888S` (This works for Arcshell AR-5 and Pxton PX-888S as well).

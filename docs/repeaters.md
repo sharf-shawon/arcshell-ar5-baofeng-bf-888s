@@ -12,6 +12,7 @@ A **repeater** is a special station that receives your signal and re-broadcasts 
 ---
 
 ## How It Works
+
 1.  **Input Frequency:** The frequency you transmit on (e.g., `442.500`).
 2.  **Offset:** The difference between input and output (typically `+5.000` or `-5.000` MHz for UHF).
 3.  **Output Frequency:** The frequency you listen on (e.g., `447.500`).
@@ -20,11 +21,13 @@ A **repeater** is a special station that receives your signal and re-broadcasts 
 ---
 
 ## Finding Repeaters
+
 Use [RepeaterBook.com](https://www.repeaterbook.com/) to find towers near you. Look for "70cm" or "UHF" repeaters, as those are compatible with your radio.
 
 ---
 
 ## Programming in CHIRP
+
 | Field | Example Value |
 | :--- | :--- |
 | **Frequency** | `447.500` (The Output/Listen frequency) |
@@ -36,6 +39,7 @@ Use [RepeaterBook.com](https://www.repeaterbook.com/) to find towers near you. L
 ---
 
 ## Repeater Etiquette
+
 - **Listen First:** Ensure the repeater isn't already in use.
 - **Identify:** You must state your callsign at the beginning and end of your conversation.
 - **Be Brief:** Repeaters often have "time-out" timers that will cut you off if you talk for more than 3 minutes.

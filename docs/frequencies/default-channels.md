@@ -30,4 +30,5 @@ Below are the 16 channels that come pre-programmed on most units. **Almost all o
 | 16 | 469.950 | Business | 🚫 Commercial License Only |
 
 ### Why is this important?
+
 Transmitting on Channel 15 or 16 could interfere with local business operations or public safety. **Always reprogram your radio before pressing the talk button.**

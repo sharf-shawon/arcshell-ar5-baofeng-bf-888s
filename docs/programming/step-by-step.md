@@ -13,6 +13,7 @@ Follow these steps to safely program your radio.
 ---
 
 ## 1. Backup Factory Settings (CRITICAL)
+
 Before you change anything, save the original settings. If you make a mistake, you can always revert to this file.
 
 1.  Connect your radio and click **Radio > Download from Radio**.
@@ -22,6 +23,7 @@ Before you change anything, save the original settings. If you make a mistake, y
 ---
 
 ## 2. Enter Your Channels
+
 You will see a spreadsheet-like view. Here is what each column means:
 
 | Column | What to enter |
@@ -36,6 +38,7 @@ You will see a spreadsheet-like view. Here is what each column means:
 ---
 
 ## 3. Recommended Starter Channels
+
 If you have your Ham license, try these:
 
 | Ch | Frequency | Name | Use Case |
@@ -47,6 +50,7 @@ If you have your Ham license, try these:
 ---
 
 ## 4. Upload to Radio
+
 Once you have entered your desired channels:
 1.  Click **Radio > Upload to Radio**.
 2.  Verify the COM port and model.
@@ -56,4 +60,5 @@ Once you have entered your desired channels:
 ---
 
 ## 5. Test
+
 Disconnect the cable and test your channels. Try talking to a friend or listening to a local repeater to confirm your settings are correct.
