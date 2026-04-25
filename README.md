@@ -68,9 +68,10 @@ Transmitting without proper licensing can result in significant fines (up to $10
 
 1. **Charge your radios** - Use the included charging cradles for 2-3 hours
 2. **Learn to listen** - Turn on the radio, select a channel, and listen only
-3. **Get licensed** - [Take the Ham Radio exam](#getting-your-ham-radio-license) (it's easier than you think!)
-4. **Program your radio** - Use [CHIRP software](#chirp-software-setup) to configure proper frequencies
-5. **Join the community** - Find local repeaters and Ham radio clubs
+3. **Learn the Lingo** - Learn the language of Radio operators, [Quick Guide - The most used codes, terms and abbreviations](https://www.acom-bg.com/sites/default/files/manuals/ACOM%20Quick%20Guide%20The%20most%20used%20codes,%20terms,%20and%20abbreviations%20in%20amateur%20radio%20practice%20GB%2002_2022.pdf)
+4. **Get licensed** - [Take the Ham Radio exam](#getting-your-ham-radio-license) (it's easier than you think!, Costs around $35 USD)
+5. **Program your radio** - Use [CHIRP software](#chirp-software-setup) to configure proper frequencies
+6. **Join the community** - Find local repeaters and Ham radio clubs
 
 ### Initial Setup Checklist
 
@@ -79,7 +80,7 @@ Transmitting without proper licensing can result in significant fines (up to $10
 - [ ] Understand [legal requirements](#important-legal-information)
 - [ ] Obtained programming cable
 - [ ] Downloaded [CHIRP software](https://chirpmyradio.com/projects/chirp/wiki/Download)
-- [ ] Backed up factory settings
+- [ ] Backed up [default factory settings](#factory-default-chirp-images)
 - [ ] Programmed with appropriate frequencies
 - [ ] Tested communication on legal frequencies
 
@@ -114,12 +115,12 @@ These radios are hardware-identical across brands:
 - **Pxton PX-888S** (rebrand)
 - Various generic "BF-888S" clones
 
-All share the same:
+All share the same and/or similar:
 - Internal circuitry and chipset
 - Programming protocol
-- Accessories (batteries, chargers, antennas)
 - CHIRP configuration files
 
+Note: Accessories (batteries, chargers, antennas) and charging ports might not be compatible across different vendors.
 ---
 
 ## Important Legal Information
@@ -147,7 +148,7 @@ The Arcshell AR-5 radios are **[FCC Part 90 certified](https://fcc.report/FCC-ID
 ### Why Licensing Matters
 
 1. **Default frequencies interfere with emergency services** - Some factory channels conflict with police, fire, and EMS
-2. **FCC actively monitors spectrum** - Violations are investigated and prosecuted
+2. **FCC actively monitors spectrum** - Violations are investigated and prosecuted (Rarely, but happens)
 3. **Penalties are severe** - Fines up to $10,000+ and potential criminal charges
 4. **It's actually easy to get licensed** - Most people pass with 1-2 weeks of study
 5. **License opens up legitimate use** - Access to repeaters, longer range, legal operation
@@ -279,7 +280,7 @@ This manual covers:
 
 ### Manual Applies To
 
-The same manual works for all hardware-identical models:
+The same manual works for all hardware-identical models. Some details may differ, but mostly the same.
 - Arcshell AR-5
 - BaoFeng BF-888S
 - Pxton PX-888S
@@ -309,7 +310,7 @@ The same manual works for all hardware-identical models:
 You need a USB programming cable compatible with BaoFeng BF-888S radios.
 
 **Where to Buy:**
-- **[AliExpress](https://www.aliexpress.us/item/3256805744418678.html)** - $1-3 (2-4 week shipping)
+- **AliExpress** - $1-3 (2-4 week shipping)
 - **Amazon** - $8-15 (search "BaoFeng programming cable USB")
 - **eBay** - $5-10
 
@@ -628,7 +629,7 @@ Standard FRS/GMRS frequency allocations:
 
 ### Amateur Radio Frequency Bands (Legal for These Radios)
 
-With a Technician license, you can use these UHF Ham bands:
+With a Technician license (or above), you can use these UHF Ham bands:
 
 #### 70cm Band (440-450 MHz)
 
