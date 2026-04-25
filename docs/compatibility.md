@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Compatibility
-nav_order: 10
+nav_order: 11
 description: "Radio compatibility guide for Arcshell AR-5, BaoFeng BF-888S, and other walkie-talkie brands."
 ---
 
@@ -15,7 +15,7 @@ Will your Arcshell talk to your friend's Motorola? The answer is **Yes**, but th
 
 These radios can all communicate with each other if programmed correctly:
 
-- **Other BF-888S Clones:** Pxton PX-888S, Retevis H-777, etc.
+- **Other BF-888S Clones:** Pxton PX-888S, Retevis H-777, etc. (See our [Clones & Variants]({{ site.baseurl }}/docs/clones-and-variants.html) guide for a full list and accessory info).
 - **Consumer FRS/GMRS Radios:** Motorola Talkabout, Midland, Cobra, Onn.
 - **Ham Radios:** Any UHF-capable handheld like the BaoFeng UV-5R.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Troubleshooting
-nav_order: 7
+nav_order: 9
 description: "Solutions for common issues with BaoFeng BF-888S and Arcshell AR-5 radios."
 ---
 
@@ -62,4 +62,3 @@ This is the #1 most common issue.
 If you've tried everything and your cable still won't work, some users have success building their own DIY programmer using a generic USB-to-TTL adapter.
 
 ![DIY Radio Programmer]({{ site.baseurl }}/assets/images/my-diy-usb-radio-programmer.jpg)
-

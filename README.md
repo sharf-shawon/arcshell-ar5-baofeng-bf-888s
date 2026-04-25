@@ -1,8 +1,8 @@
-# 📡 Arcshell AR-5 & BaoFeng BF-888S Guide
+# 📡 Arcshell AR-5, BaoFeng BF-888S, Pxton PX 888s Guide
 
 ![Arcshell AR-5 Radio](assets/images/arcshell-ar-5.jpg)
 
-> **The definitive, SEO-optimized beginner's resource for the world's most popular budget UHF radios.**
+> **The definitive, beginner's resource for the world's most popular budget UHF radios.**
 
 [![GitHub Pages Status](https://img.shields.io/website?url=https%3A%2F%2Fsharf-shawon.github.io%2Farcshell-ar5-baofeng-bf-888s%2F)](https://sharf-shawon.github.io/arcshell-ar5-baofeng-bf-888s/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)

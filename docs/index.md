@@ -34,8 +34,14 @@ This site helps you:
 
 | | | |
 | :--- | :--- | :--- |
-| **🚀 Quick Start** | **💻 Programming** | **⚖️ Legal Info** |
-| New to radios? Start with our [Getting Started guide]({{ site.baseurl }}/docs/getting-started.html). | Learn how to use [CHIRP]({{ site.baseurl }}/docs/programming/index.html) to customize your channels. | Understand [FCC regulations]({{ site.baseurl }}/docs/legal-and-licensing.html) before you transmit. |
+| **🚀 Quick Start** | **💻 Programming** | **🎓 User Guides** |
+| New to radios? Start with our [Getting Started guide]({{ site.baseurl }}/docs/getting-started.html). | Learn how to use [CHIRP]({{ site.baseurl }}/docs/programming/index.html) to customize your channels. | Choose your path: [Operator, Enthusiast, or Guru]({{ site.baseurl }}/docs/guides/index.html). |
+
+---
+
+## ⚖️ Legal & Licensing
+
+Understand [FCC regulations]({{ site.baseurl }}/docs/legal-and-licensing.html) before you transmit. Using a radio without a license can lead to significant fines.
 
 ---
 

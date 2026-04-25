@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-nav_order: 8
+nav_order: 10
 description: "Helpful links, software, and community resources for radio enthusiasts."
 ---
 
@@ -44,4 +44,3 @@ Explore these resources to expand your knowledge and get the most out of your ra
 ## 📸 Real-World Setup
 
 ![My Radio Setup]({{ site.baseurl }}/assets/images/my-setup.jpg)
-
