@@ -8,6 +8,8 @@ permalink: /
 
 # 📡 Arcshell AR-5 & BaoFeng BF-888S Guide
 
+![Arcshell AR-5 Radio]({{ site.baseurl }}/assets/images/arcshell-ar-5.jpg)
+
 The definitive resource for the world's most popular budget UHF radios. Whether you just unboxed your first pair or you're looking to program custom frequencies, this guide has you covered.
 
 [Get Started →]({{ site.baseurl }}/docs/getting-started.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

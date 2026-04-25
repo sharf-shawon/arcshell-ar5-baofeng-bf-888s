@@ -22,7 +22,11 @@ Always download CHIRP from the official website to ensure you have the latest ve
 
 ## 2. Install Drivers
 
+![BaoFeng USB Programming Cable]({{ site.baseurl }}/assets/images/baofeng-usb-programming-cable.webp)
+
 This is the most common hurdle. Most cheap programming cables use "clone" chips that require specific drivers.
+
+![CP2102 Radio Programmer]({{ site.baseurl }}/assets/images/cp2102-radio-programmer.jpg)
 
 - **Windows 10/11:** Usually handles drivers automatically. If you see a yellow triangle in Device Manager, try the [Prolific](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225) or [CH340](http://www.wch-ic.com/downloads/CH341SER_EXE.html) drivers.
 - **macOS:** May require manual driver installation and permission in "Security & Privacy".

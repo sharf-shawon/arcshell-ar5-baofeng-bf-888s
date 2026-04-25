@@ -27,6 +27,8 @@ The BaoFeng BF-888S and Arcshell AR-5 are powerful handheld radios. In the Unite
 
 ## 🏁 Quick Start Guide
 
+![Arcshell AR-5 Pair]({{ site.baseurl }}/assets/images/arcshell-ar-5-pair.jpg)
+
 1. **Charge your radios:** Place the radios in their charging cradles for 2-3 hours until the LED turns green.
 2. **Learn the controls:**
     - **Top Knob (Right):** Power and Volume.

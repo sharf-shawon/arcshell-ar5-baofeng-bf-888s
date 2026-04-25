@@ -54,3 +54,12 @@ This is the #1 most common issue.
 ### Charger flashes red/green
 
 - This often indicates a bad connection between the radio and the charging cradle. Try cleaning the metal contacts on the back of the radio with a tiny bit of rubbing alcohol.
+
+---
+
+## 🛠️ Still Stuck?
+
+If you've tried everything and your cable still won't work, some users have success building their own DIY programmer using a generic USB-to-TTL adapter.
+
+![DIY Radio Programmer]({{ site.baseurl }}/assets/images/my-diy-usb-radio-programmer.jpg)
+

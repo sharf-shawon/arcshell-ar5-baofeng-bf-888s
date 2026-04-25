@@ -38,3 +38,10 @@ Explore these resources to expand your knowledge and get the most out of your ra
 
 - **[Reddit r/Baofeng](https://www.reddit.com/r/Baofeng/):** A helpful community for specific questions about these radios.
 - **[Reddit r/AmateurRadio](https://www.reddit.com/r/amateurradio/):** The largest general community for radio enthusiasts.
+
+---
+
+## 📸 Real-World Setup
+
+![My Radio Setup]({{ site.baseurl }}/assets/images/my-setup.jpg)
+
