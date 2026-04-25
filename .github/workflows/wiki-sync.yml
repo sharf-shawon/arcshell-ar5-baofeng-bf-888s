@@ -18,6 +18,7 @@ jobs:
         uses: Andrew-Chen-Wang/github-wiki-action@v4
         with:
           path: docs
+          token: ${{ secrets.GH_TOKEN }}
           commit-message: "Sync docs to Wiki"
         env:
           WIKI_ACTION_TOKEN: ${{ secrets.GH_TOKEN }}
