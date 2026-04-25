@@ -49,3 +49,8 @@ color_scheme: light
 
 # Google Analytics (placeholder)
 # google_analytics: "UA-XXXXXXXXX-X"
+
+exclude:
+  - docs/_Sidebar.md
+  - docs/_Header.md
+  - docs/_Footer.md
