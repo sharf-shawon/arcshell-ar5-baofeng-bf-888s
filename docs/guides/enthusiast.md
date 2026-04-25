@@ -52,6 +52,7 @@ Using a radio inside a car is hard because the metal body blocks the signal.
 ---
 
 ## 🗺️ Recommended Path
+
 1. Master [CHIRP Programming](../programming/index.md).
 2. Learn how to use [Repeaters](../repeaters.md).
 3. Check out the [Clones & Variants](../clones-and-variants.md) list to see what accessories fit your radio.

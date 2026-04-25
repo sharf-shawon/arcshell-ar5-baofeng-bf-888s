@@ -17,7 +17,7 @@ jobs:
       - name: Sync to Wiki
         uses: Andrew-Chen-Wang/github-wiki-action@v4
         with:
-          wiki_folder: docs
-          commit_message: "Sync docs to Wiki"
+          path: docs
+          commit-message: "Sync docs to Wiki"
         env:
           WIKI_ACTION_TOKEN: ${{ secrets.GITHUB_TOKEN }}

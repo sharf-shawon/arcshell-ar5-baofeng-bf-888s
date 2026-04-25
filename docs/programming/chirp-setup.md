@@ -28,7 +28,7 @@ This is the most common hurdle. Most cheap programming cables use "clone" chips 
 
 ![CP2102 Radio Programmer]({{ site.baseurl }}/assets/images/cp2102-radio-programmer.jpg)
 
-- **Windows 10/11:** Usually handles drivers automatically. If you see a yellow triangle in Device Manager, try the [Prolific](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225) or [CH340](http://www.wch-ic.com/downloads/CH341SER_EXE.html) drivers.
+- **Windows 10/11:** Usually handles drivers automatically. If you see a yellow triangle in Device Manager, try the [Prolific (Official)](https://prolificusa.com/product/pl2303gs-usb-to-full-uart-bridge-controller/) or [CH340/CH341 (Official)](https://www.wch-ic.com/downloads/CH341SER_EXE.html) drivers.
 - **macOS:** May require manual driver installation and permission in "Security & Privacy".
 - **Linux:** Most drivers are built-in, but you may need to add your user to the `dialout` group:
   `sudo usermod -aG dialout $USER` (Log out and back in after running).
