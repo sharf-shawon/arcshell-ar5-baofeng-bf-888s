@@ -2,9 +2,9 @@
 
 > **The definitive, SEO-optimized beginner's resource for the world's most popular budget UHF radios.**
 
-[![GitHub Pages Status](https://img.shields.io/website?url=https%3A%2F%2Fmshawon.github.io%2Farcshell-ar5-baofeng-bf-888s%2F)](https://mshawon.github.io/arcshell-ar5-baofeng-bf-888s/)
+[![GitHub Pages Status](https://img.shields.io/website?url=https%3A%2F%2Fsharf-shawon.github.io%2Farcshell-ar5-baofeng-bf-888s%2F)](https://sharf-shawon.github.io/arcshell-ar5-baofeng-bf-888s/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![CI](https://github.com/mshawon/arcshell-ar5-baofeng-bf-888s/actions/workflows/ci.yml/badge.svg)](https://github.com/mshawon/arcshell-ar5-baofeng-bf-888s/actions/workflows/ci.yml)
+[![CI](https://github.com/sharf-shawon/arcshell-ar5-baofeng-bf-888s/actions/workflows/ci.yml/badge.svg)](https://github.com/sharf-shawon/arcshell-ar5-baofeng-bf-888s/actions/workflows/ci.yml)
 
 ---
 
@@ -12,7 +12,7 @@
 
 Our comprehensive documentation, including programming tutorials, legal information, and frequency charts, is now available at:
 
-### 👉 **[https://mshawon.github.io/arcshell-ar5-baofeng-bf-888s/](https://mshawon.github.io/arcshell-ar5-baofeng-bf-888s/)**
+### 👉 **[https://sharf-shawon.github.io/arcshell-ar5-baofeng-bf-888s/](https://sharf-shawon.github.io/arcshell-ar5-baofeng-bf-888s/)**
 
 ---
 

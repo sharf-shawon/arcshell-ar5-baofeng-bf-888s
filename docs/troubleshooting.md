@@ -16,10 +16,11 @@ Is your radio behaving strangely? Check the common solutions below.
 ### "Radio did not respond" (CHIRP)
 
 This is the #1 most common issue.
-1.  **Connection:** Ensure the 2-pin connector is pushed **all the way in**. It should click.
-2.  **Power:** Ensure the radio is **turned ON** and the volume is up.
-3.  **Drivers:** Open Device Manager (Windows). If you see a yellow triangle, you need to install the correct [cable drivers]({{ site.baseurl }}/programming/chirp-setup/).
-4.  **Model:** Ensure you selected `Baofeng` -> `BF-888S` in CHIRP.
+
+1. **Connection:** Ensure the 2-pin connector is pushed **all the way in**. It should click.
+2. **Power:** Ensure the radio is **turned ON** and the volume is up.
+3. **Drivers:** Open Device Manager (Windows). If you see a yellow triangle, you need to install the correct [cable drivers]({{ site.baseurl }}/docs/programming/chirp-setup.html).
+4. **Model:** Ensure you selected `Baofeng` -> `BF-888S` in CHIRP.
 
 ### Cable not recognized
 

@@ -16,9 +16,9 @@ Follow these steps to safely program your radio.
 
 Before you change anything, save the original settings. If you make a mistake, you can always revert to this file.
 
-1.  Connect your radio and click **Radio > Download from Radio**.
-2.  Once the download completes, click **File > Save As**.
-3.  Name it `My-Radio-Original-Backup.img` and store it in a safe place.
+1. Connect your radio and click **Radio > Download from Radio**.
+2. Once the download completes, click **File > Save As**.
+3. Name it `My-Radio-Original-Backup.img` and store it in a safe place.
 
 ---
 
@@ -52,10 +52,11 @@ If you have your Ham license, try these:
 ## 4. Upload to Radio
 
 Once you have entered your desired channels:
-1.  Click **Radio > Upload to Radio**.
-2.  Verify the COM port and model.
-3.  Click **OK**.
-4.  **Wait** for the red light on the radio to stop flashing. The radio will reboot.
+
+1. Click **Radio > Upload to Radio**.
+2. Verify the COM port and model.
+3. Click **OK**.
+4. **Wait** for the red light on the radio to stop flashing. The radio will reboot.
 
 ---
 

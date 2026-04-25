@@ -50,16 +50,17 @@ Getting licensed is the best way to enjoy your radio legally and safely. The ent
 
 The exam consists of **35 multiple-choice questions**. You need **26 correct** (74%) to pass.
 
-1.  **Study (1-2 Weeks):** Use free resources like [HamStudy.org](https://hamstudy.org/) or [HamRadioPrep.com](https://hamradioprep.com/).
-2.  **Take Practice Exams:** Once you consistently score 80%+, you are ready.
-3.  **Find a Session:** You can take the exam in person or **fully online** via video call.
-4.  **Pay the Fee:** The exam fee is typically $15, plus a $35 FCC application fee (valid for 10 years).
+1. **Study (1-2 Weeks):** Use free resources like [HamStudy.org](https://hamstudy.org/) or [HamRadioPrep.com](https://hamradioprep.com/).
+2. **Take Practice Exams:** Once you consistently score 80%+, you are ready.
+3. **Find a Session:** You can take the exam in person or **fully online** via video call.
+4. **Pay the Fee:** The exam fee is typically $15, plus a $35 FCC application fee (valid for 10 years).
 
 ---
 
 ## 🌍 International Use
 
 If you are outside the USA, your regulations will vary:
+
 - **UK/Europe:** Look into Ofcom or your national regulator. PMR446 is the common license-free standard (similar to FRS).
 - **Canada:** Regulated by Innovation, Science and Economic Development Canada (ISED).
 - **Australia:** Regulated by ACMA.

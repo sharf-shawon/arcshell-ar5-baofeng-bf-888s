@@ -21,22 +21,22 @@ The BaoFeng BF-888S and Arcshell AR-5 are powerful handheld radios. In the Unite
 - **Transmitting:** Illegal without a license. Fines can reach up to $10,000.
 - **Factory Channels:** The default channels often conflict with emergency services (Police/Fire/EMS). **Do not press the PTT (Push-To-Talk) button until you have programmed legal frequencies.**
 
-[Learn how to get licensed →]({{ site.baseurl }}/legal-and-licensing/)
+[Learn how to get licensed →]({{ site.baseurl }}/docs/legal-and-licensing.html)
 
 ---
 
 ## 🏁 Quick Start Guide
 
-1.  **Charge your radios:** Place the radios in their charging cradles for 2-3 hours until the LED turns green.
-2.  **Learn the controls:**
+1. **Charge your radios:** Place the radios in their charging cradles for 2-3 hours until the LED turns green.
+2. **Learn the controls:**
     - **Top Knob (Right):** Power and Volume.
     - **Top Knob (Left):** Channel selector (1-16).
     - **Side Button (Big):** PTT (Push-To-Talk) - Hold to speak.
     - **Side Button (Small Top):** Monitor - Hold to hear background static (squelch override).
-3.  **Learn the Lingo:** Amateur radio has its own language. Familiarize yourself with common terms like "73" (Best regards) and "QSO" (Conversation).
-4.  **Listen Only:** Turn the radio to an active channel and just listen to how other operators communicate.
-5.  **Get Licensed:** It usually takes about 2 weeks of casual study to pass the Technician exam.
-6.  **Program Your Radio:** Use a programming cable and [CHIRP software]({{ site.baseurl }}/programming/) to configure legal frequencies.
+3. **Learn the Lingo:** Amateur radio has its own language. Familiarize yourself with common terms like "73" (Best regards) and "QSO" (Conversation).
+4. **Listen Only:** Turn the radio to an active channel and just listen to how other operators communicate.
+5. **Get Licensed:** It usually takes about 2 weeks of casual study to pass the Technician exam.
+6. **Program Your Radio:** Use a programming cable and [CHIRP software]({{ site.baseurl }}/docs/programming/index.html) to configure legal frequencies.
 
 ---
 
@@ -57,6 +57,7 @@ Use this checklist to ensure you're ready for the airwaves:
 ## Next Steps
 
 Ready to dive deeper?
-- [Learn about Programming with CHIRP →]({{ site.baseurl }}/programming/)
-- [See the Frequency Reference charts →]({{ site.baseurl }}/frequencies/)
-- [Troubleshoot common issues →]({{ site.baseurl }}/troubleshooting/)
+
+- [Learn about Programming with CHIRP →]({{ site.baseurl }}/docs/programming/index.html)
+- [See the Frequency Reference charts →]({{ site.baseurl }}/docs/frequencies/index.html)
+- [Troubleshoot common issues →]({{ site.baseurl }}/docs/troubleshooting.html)

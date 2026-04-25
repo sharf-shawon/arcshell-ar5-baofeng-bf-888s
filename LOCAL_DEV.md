@@ -4,21 +4,21 @@ To preview the documentation site on your local machine before pushing to GitHub
 
 ## Prerequisites
 
-1.  **Ruby:** [Download and install Ruby](https://rubyinstaller.org/) (use the Recommended version with Devkit).
-2.  **Bundler:** Run `gem install bundler` in your terminal.
+1. **Ruby:** [Download and install Ruby](https://rubyinstaller.org/) (use the Recommended version with Devkit).
+2. **Bundler:** Run `gem install bundler` in your terminal.
 
 ## Setup & Preview
 
-1.  **Open in VS Code:** Open this project folder.
-2.  **Install Dependencies:**
+1. **Open in VS Code:** Open this project folder.
+2. **Install Dependencies:**
     - Press `Ctrl+Shift+P`
     - Type `Tasks: Run Task`
     - Select `Bundle: Install`
-3.  **Start Preview Server:**
+3. **Start Preview Server:**
     - Press `Ctrl+Shift+P`
     - Type `Tasks: Run Task`
     - Select `Jekyll: Serve`
-4.  **View Site:**
+4. **View Site:**
     - Open your browser to: `http://localhost:4000`
     - The site will automatically refresh when you save changes to your Markdown files.
 

@@ -14,6 +14,7 @@ A clear and concise description of what the bug is.
 (Where the bug occurs)
 
 **Steps to Reproduce:**
+
 1. Go to '...'
 2. Click on '....'
 3. See error

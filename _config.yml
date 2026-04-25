@@ -1,7 +1,7 @@
 # Site settings
 title: "Arcshell AR-5 & BaoFeng BF-888S Guide"
 description: "The definitive beginner's guide for BaoFeng BF-888S, Arcshell AR-5, and Pxton PX-888S radios. Learn programming, frequencies, and licensing."
-url: "https://mshawon.github.io" # Replace with actual GitHub Pages URL
+url: "https://sharf-shawon.github.io" # Replace with actual GitHub Pages URL
 baseurl: "/arcshell-ar5-baofeng-bf-888s" # Repo name
 
 # Theme settings
@@ -35,7 +35,7 @@ nav_order:
 # Auxiliary links in the sidebar
 aux_links:
   "⭐ Star on GitHub":
-    - "https://github.com/mshawon/arcshell-ar5-baofeng-bf-888s"
+    - "https://github.com/sharf-shawon/arcshell-ar5-baofeng-bf-888s"
 
 # Footer content
 footer_content: "Copyright &copy; 2024. Distributed under the Apache 2.0 License. Not affiliated with Arcshell or BaoFeng."

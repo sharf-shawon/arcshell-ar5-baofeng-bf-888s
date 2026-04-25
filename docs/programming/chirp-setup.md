@@ -33,18 +33,19 @@ This is the most common hurdle. Most cheap programming cables use "clone" chips 
 
 ## 3. Connect the Hardware
 
-1.  **Turn the radio OFF.**
-2.  Plug the USB cable into your computer.
-3.  Plug the 2-pin connector into the radio. **Push hard** until it clicks; it needs a very snug connection.
-4.  **Turn the radio ON** and rotate the volume to about 50-70%.
+1. **Turn the radio OFF.**
+2. Plug the USB cable into your computer.
+3. Plug the 2-pin connector into the radio. **Push hard** until it clicks; it needs a very snug connection.
+4. **Turn the radio ON** and rotate the volume to about 50-70%.
 
 ---
 
 ## 4. Verify the Connection
 
 In CHIRP, go to **Radio > Download from Radio**.
+
 - **Port:** Select the one that says "USB" or "COM3/4".
 - **Vendor:** Select `Baofeng`.
 - **Model:** Select `BF-888S` (This works for Arcshell AR-5 and Pxton PX-888S as well).
 
-If you see a progress bar, you are connected! If not, check our [Troubleshooting]({{ site.baseurl }}/troubleshooting/) page.
+If you see a progress bar, you are connected! If not, check our [Troubleshooting]({{ site.baseurl }}/docs/troubleshooting.html) page.

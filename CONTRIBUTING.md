@@ -6,7 +6,8 @@ First off, thank you for considering contributing to this project! It's people l
 
 ### Reporting Content Errors
 
-If you find a factual error (e.g., an incorrect frequency or outdated licensing info), please [open an issue](https://github.com/mshawon/arcshell-ar5-baofeng-bf-888s/issues) with the following details:
+If you find a factual error (e.g., an incorrect frequency or outdated licensing info), please [open an issue](https://github.com/sharf-shawon/arcshell-ar5-baofeng-bf-888s/issues) with the following details:
+
 - What the current information is.
 - What the correct information should be.
 - A source or reference to verify the change.
@@ -14,10 +15,11 @@ If you find a factual error (e.g., an incorrect frequency or outdated licensing 
 ### Adding New Content
 
 Want to add a guide for a specific country's regulations or a new CHIRP tip?
-1.  **Fork** the repository.
-2.  **Create a branch** for your change (`git checkout -b feature/new-content`).
-3.  **Add your content** in the appropriate `docs/` subdirectory.
-4.  **Submit a Pull Request** (PR).
+
+1. **Fork** the repository.
+2. **Create a branch** for your change (`git checkout -b feature/new-content`).
+3. **Add your content** in the appropriate `docs/` subdirectory.
+4. **Submit a Pull Request** (PR).
 
 ### Style Guide
 

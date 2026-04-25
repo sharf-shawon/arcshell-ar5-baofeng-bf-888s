@@ -13,10 +13,10 @@ A **repeater** is a special station that receives your signal and re-broadcasts 
 
 ## How It Works
 
-1.  **Input Frequency:** The frequency you transmit on (e.g., `442.500`).
-2.  **Offset:** The difference between input and output (typically `+5.000` or `-5.000` MHz for UHF).
-3.  **Output Frequency:** The frequency you listen on (e.g., `447.500`).
-4.  **Tone (CTCSS):** A sub-audible "key" required to "open" the repeater.
+1. **Input Frequency:** The frequency you transmit on (e.g., `442.500`).
+2. **Offset:** The difference between input and output (typically `+5.000` or `-5.000` MHz for UHF).
+3. **Output Frequency:** The frequency you listen on (e.g., `447.500`).
+4. **Tone (CTCSS):** A sub-audible "key" required to "open" the repeater.
 
 ---
 

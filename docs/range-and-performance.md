@@ -26,9 +26,9 @@ description: "How to maximize the range and battery life of your Arcshell AR-5 a
 
 ## 📈 Tips to Increase Range
 
-1.  **Get High:** Elevation is everything. Standing on a hill or the top floor of a building will double or triple your range.
-2.  **Hold it Vertical:** Keep the antenna pointing straight up. Holding the radio sideways can reduce your signal by 90%.
-3.  **Upgrade the Antenna:** The factory "rubber duck" antenna is mediocre. Consider a **Nagoya NA-771** for a significant performance boost.
+1. **Get High:** Elevation is everything. Standing on a hill or the top floor of a building will double or triple your range.
+2. **Hold it Vertical:** Keep the antenna pointing straight up. Holding the radio sideways can reduce your signal by 90%.
+3. **Upgrade the Antenna:** The factory "rubber duck" antenna is mediocre. Consider a **Nagoya NA-771** for a significant performance boost.
 
 ---
 

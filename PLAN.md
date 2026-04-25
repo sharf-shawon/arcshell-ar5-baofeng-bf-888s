@@ -72,8 +72,8 @@
 - [ ] **Home (index.md):** High-impact hero section with "Start Here" and "Star Repo" CTAs.
 - [ ] **Getting Started:** Expand current README into a multi-step beginner guide.
 - [ ] **Programming Suite:**
-    - [ ] CHIRP setup guide (Drivers, Installation).
-    - [ ] Step-by-step radio backup and frequency upload.
+  - [ ] CHIRP setup guide (Drivers, Installation).
+  - [ ] Step-by-step radio backup and frequency upload.
 - [ ] **Factory Defaults:** Direct download links for existing `.img` files with MD5 hashes.
 
 ### Phase 3: Reference & Legal ⚖️
