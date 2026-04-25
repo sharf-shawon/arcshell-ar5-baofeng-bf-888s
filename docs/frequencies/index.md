@@ -14,15 +14,15 @@ Whether you're looking for the factory defaults or want to match your radio to s
 
 ## Section Guide
 
-### [1. Default Factory Channels]({{ site.baseurl }}/docs/frequencies/default-channels.html)
+### [1. Default Factory Channels](default-channels.md)
 
 The 16 frequencies that come pre-programmed on most BaoFeng/Arcshell radios. **(Warning: Most are illegal to use!)**
 
-### [2. FRS/GMRS Chart]({{ site.baseurl }}/docs/frequencies/frs-gmrs-chart.html)
+### [2. FRS/GMRS Chart](frs-gmrs-chart.md)
 
 Standard frequency list for consumer "walkie-talkies" used in the USA.
 
-### [3. Amateur Radio Bands]({{ site.baseurl }}/docs/frequencies/amateur-bands.html)
+### [3. Amateur Radio Bands](amateur-bands.md)
 
 Legal UHF frequencies for licensed Ham operators (70cm band).
 

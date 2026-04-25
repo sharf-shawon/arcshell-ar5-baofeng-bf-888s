@@ -15,7 +15,7 @@ Will your Arcshell talk to your friend's Motorola? The answer is **Yes**, but th
 
 These radios can all communicate with each other if programmed correctly:
 
-- **Other BF-888S Clones:** Pxton PX-888S, Retevis H-777, etc. (See our [Clones & Variants]({{ site.baseurl }}/docs/clones-and-variants.html) guide for a full list and accessory info).
+- **Other BF-888S Clones:** Pxton PX-888S, Retevis H-777, etc. (See our [Clones & Variants](clones-and-variants.md) guide for a full list and accessory info).
 - **Consumer FRS/GMRS Radios:** Motorola Talkabout, Midland, Cobra, Onn.
 - **Ham Radios:** Any UHF-capable handheld like the BaoFeng UV-5R.
 
@@ -35,4 +35,4 @@ Your radio will **NOT** work with:
 
 If your friend's radio says they are on "Channel 1, Code 12", you must find the frequency for Channel 1 (462.5625 MHz) and the CTCSS frequency for Code 12 (100.0 Hz) and program those into your radio via CHIRP.
 
-[See our Frequency Charts for common codes →]({{ site.baseurl }}/docs/frequencies/frs-gmrs-chart.html)
+[See our Frequency Charts for common codes →](frequencies/frs-gmrs-chart.md)

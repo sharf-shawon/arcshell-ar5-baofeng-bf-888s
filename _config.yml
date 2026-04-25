@@ -14,6 +14,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-relative-links
 
 # SEO Metadata
 twitter:

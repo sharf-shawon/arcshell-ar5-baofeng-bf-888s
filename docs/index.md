@@ -12,7 +12,7 @@ permalink: /
 
 The definitive resource for the world's most popular budget UHF radios. Whether you just unboxed your first pair or you're looking to program custom frequencies, this guide has you covered.
 
-[Get Started →]({{ site.baseurl }}/docs/getting-started.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get Started →](getting-started.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [⭐ Star on GitHub](https://github.com/sharf-shawon/arcshell-ar5-baofeng-bf-888s){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -35,13 +35,13 @@ This site helps you:
 | | | |
 | :--- | :--- | :--- |
 | **🚀 Quick Start** | **💻 Programming** | **🎓 User Guides** |
-| New to radios? Start with our [Getting Started guide]({{ site.baseurl }}/docs/getting-started.html). | Learn how to use [CHIRP]({{ site.baseurl }}/docs/programming/index.html) to customize your channels. | Choose your path: [Operator, Enthusiast, or Guru]({{ site.baseurl }}/docs/guides/index.html). |
+| New to radios? Start with our [Getting Started guide](getting-started.md). | Learn how to use [CHIRP](programming/index.md) to customize your channels. | Choose your path: [Operator, Enthusiast, or Guru](guides/index.md). |
 
 ---
 
 ## ⚖️ Legal & Licensing
 
-Understand [FCC regulations]({{ site.baseurl }}/docs/legal-and-licensing.html) before you transmit. Using a radio without a license can lead to significant fines.
+Understand [FCC regulations](legal-and-licensing.md) before you transmit. Using a radio without a license can lead to significant fines.
 
 ---
 
@@ -49,9 +49,9 @@ Understand [FCC regulations]({{ site.baseurl }}/docs/legal-and-licensing.html) b
 
 Lost your original settings? We maintain a library of factory default images for the most popular models.
 
-- [Download Arcshell AR-5 Defaults]({{ site.baseurl }}/docs/factory-defaults.html)
-- [Download BaoFeng BF-888S Defaults]({{ site.baseurl }}/docs/factory-defaults.html)
-- [Download Pxton PX-888S Defaults]({{ site.baseurl }}/docs/factory-defaults.html)
+- [Download Arcshell AR-5 Defaults](factory-defaults.md)
+- [Download BaoFeng BF-888S Defaults](factory-defaults.md)
+- [Download Pxton PX-888S Defaults](factory-defaults.md)
 
 ---
 

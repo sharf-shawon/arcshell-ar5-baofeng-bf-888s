@@ -13,23 +13,17 @@ Whether you've just unboxed your first radio or you're looking to modify the int
 ---
 
 ## 🟢 Level 1: The Operator (Beginner)
-
 **Focus:** Unboxing, basic controls, charging, and radio etiquette.
-
-- [Start here if you are new to radios →]({{ site.baseurl }}/docs/guides/operator.html)
+- [Start here if you are new to radios →](operator.md)
 
 ---
 
 ## 🟡 Level 2: The Enthusiast (Intermediate)
-
 **Focus:** DIY antennas, go-bags, mobile car setups, and CHIRP power-user tips.
-
-- [Upgrade your skills and range →]({{ site.baseurl }}/docs/guides/enthusiast.html)
+- [Upgrade your skills and range →](enthusiast.md)
 
 ---
 
 ## 🔴 Level 3: The Guru (Advanced)
-
 **Focus:** Disassembly, hardware modifications, circuit analysis, and repairs.
-
-- [For those who want to know how it works inside →]({{ site.baseurl }}/docs/guides/guru.html)
+- [For those who want to know how it works inside →](guru.md)

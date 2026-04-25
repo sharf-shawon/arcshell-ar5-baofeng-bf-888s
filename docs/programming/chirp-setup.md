@@ -52,4 +52,4 @@ In CHIRP, go to **Radio > Download from Radio**.
 - **Vendor:** Select `Baofeng`.
 - **Model:** Select `BF-888S` (This works for Arcshell AR-5 and Pxton PX-888S as well).
 
-If you see a progress bar, you are connected! If not, check our [Troubleshooting]({{ site.baseurl }}/docs/troubleshooting.html) page.
+If you see a progress bar, you are connected! If not, check our [Troubleshooting](../troubleshooting.md) page.

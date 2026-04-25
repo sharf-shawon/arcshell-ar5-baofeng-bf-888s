@@ -23,15 +23,15 @@ Programming is the most important step for any new radio owner. It allows you to
 
 ## Section Guide
 
-### [1. CHIRP Setup]({{ site.baseurl }}/docs/programming/chirp-setup.html)
+### [1. CHIRP Setup](chirp-setup.md)
 
 Learn how to install CHIRP, find the right drivers, and connect your programming cable.
 
-### [2. Step-by-Step Walkthrough]({{ site.baseurl }}/docs/programming/step-by-step.html)
+### [2. Step-by-Step Walkthrough](step-by-step.md)
 
 A detailed guide on backing up your radio, entering frequencies, and uploading them safely.
 
-### [3. Advanced Tips]({{ site.baseurl }}/docs/programming/advanced-tips.html)
+### [3. Advanced Tips](advanced-tips.md)
 
 Keyboard shortcuts, bulk editing, and importing/exporting CSV files.
 
@@ -41,4 +41,4 @@ Keyboard shortcuts, bulk editing, and importing/exporting CSV files.
 
 To program these radios, you need a **Kenwood K1-style USB programming cable**. These are widely available on Amazon, eBay, and AliExpress.
 
-> **Tip:** If your computer doesn't recognize the cable, it's almost always a driver issue. See our [Troubleshooting]({{ site.baseurl }}/docs/troubleshooting.html) page for help.
+> **Tip:** If your computer doesn't recognize the cable, it's almost always a driver issue. See our [Troubleshooting](../troubleshooting.md) page for help.

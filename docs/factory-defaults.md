@@ -33,6 +33,6 @@ These links point directly to the raw files in our GitHub repository. To save th
 ## ⚠️ Warning: Factory Channels
 
 **Do not transmit on these factory channels.**
-As explained in our [Legal Guide]({{ site.baseurl }}/docs/legal-and-licensing.html), the default frequencies often conflict with police, fire, and emergency services. These images are provided for **restoration and reference only**.
+As explained in our [Legal Guide](legal-and-licensing.md), the default frequencies often conflict with police, fire, and emergency services. These images are provided for **restoration and reference only**.
 
 Always reprogram your radio with legal Amateur or FRS frequencies before use.

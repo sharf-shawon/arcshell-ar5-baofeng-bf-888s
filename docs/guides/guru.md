@@ -70,5 +70,5 @@ For node or short-range use, 2W is sometimes too much.
 ## 🗺️ Recommended Path
 
 1. Study the [Disassembly Tutorial](https://www.youtube.com/results?search_query=baofeng+bf-888s+disassembly).
-2. Look at the [Troubleshooting]({{ site.baseurl }}/docs/troubleshooting.html) guide for repair tips.
+2. Look at the [Troubleshooting](../troubleshooting.md) guide for repair tips.
 3. Visit [Miklor.com](https://www.miklor.com/) for the most in-depth technical documentation available.

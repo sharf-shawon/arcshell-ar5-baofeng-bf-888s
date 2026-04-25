@@ -52,7 +52,6 @@ Talking on a radio is different than a phone. Only one person can talk at a time
 ---
 
 ## 🗺️ Recommended Path
-
-1. Read the [Getting Started]({{ site.baseurl }}/docs/getting-started.html) guide.
-2. Review the [Radio Etiquette]({{ site.baseurl }}/docs/radio-etiquette.html) page.
-3. Learn about [Legal Requirements]({{ site.baseurl }}/docs/legal-and-licensing.html).
+1. Read the [Getting Started](../getting-started.md) guide.
+2. Review the [Radio Etiquette](../radio-etiquette.md) page.
+3. Learn about [Legal Requirements](../legal-and-licensing.md).
