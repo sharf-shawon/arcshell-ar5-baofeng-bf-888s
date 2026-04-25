@@ -1,0 +1,300 @@
+/* =============================================================================
+   BaoFeng BF-888S Guide – Custom CSS overrides for Just the Docs
+   ============================================================================= */
+
+/* --------------------------------------------------------------------------
+   CSS Variables / Color Scheme
+   -------------------------------------------------------------------------- */
+:root {
+  --clr-accent:        #00a550;   /* Ham radio green */
+  --clr-accent-dark:   #007a3d;
+  --clr-warning-bg:    #fff3cd;
+  --clr-warning-border:#ffc107;
+  --clr-warning-text:  #664d03;
+  --clr-danger-bg:     #f8d7da;
+  --clr-danger-border: #dc3545;
+  --clr-danger-text:   #58151c;
+  --clr-info-bg:       #cff4fc;
+  --clr-info-border:   #0dcaf0;
+  --clr-info-text:     #055160;
+  --clr-success-bg:    #d1e7dd;
+  --clr-success-border:#198754;
+  --clr-success-text:  #0a3622;
+  --clr-download-bg:   #0d6efd;
+  --clr-download-hover:#0b5ed7;
+}
+
+/* Override Just the Docs link + button accent */
+.site-nav .nav-list-item .nav-list-link.active,
+.site-nav .nav-list-item .nav-list-link:hover {
+  color: var(--clr-accent) !important;
+}
+
+a { color: var(--clr-accent); }
+a:hover { color: var(--clr-accent-dark); }
+
+/* --------------------------------------------------------------------------
+   Hero Section (homepage)
+   -------------------------------------------------------------------------- */
+.hero {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  color: #fff;
+  border-radius: 12px;
+  padding: 3rem 2rem;
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.hero h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  color: #fff;
+  border: none;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+  margin-bottom: 1.5rem;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* --------------------------------------------------------------------------
+   CTA Buttons
+   -------------------------------------------------------------------------- */
+.btn {
+  display: inline-block;
+  padding: 0.65rem 1.5rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.1s;
+  cursor: pointer;
+  margin: 0.25rem;
+}
+
+.btn:hover { transform: translateY(-1px); text-decoration: none; }
+
+.btn-primary {
+  background: var(--clr-accent);
+  color: #fff !important;
+  border: 2px solid var(--clr-accent);
+}
+.btn-primary:hover { background: var(--clr-accent-dark); border-color: var(--clr-accent-dark); color: #fff !important; }
+
+.btn-outline {
+  background: transparent;
+  color: #fff !important;
+  border: 2px solid #fff;
+}
+.btn-outline:hover { background: rgba(255,255,255,0.15); color: #fff !important; }
+
+.btn-star {
+  background: #f0c040;
+  color: #1a1a1a !important;
+  border: 2px solid #f0c040;
+}
+.btn-star:hover { background: #e6b830; border-color: #e6b830; color: #1a1a1a !important; }
+
+.btn-download {
+  background: var(--clr-download-bg);
+  color: #fff !important;
+  border: 2px solid var(--clr-download-bg);
+  font-size: 0.9rem;
+  padding: 0.5rem 1.25rem;
+}
+.btn-download:hover { background: var(--clr-download-hover); border-color: var(--clr-download-hover); color: #fff !important; }
+
+/* --------------------------------------------------------------------------
+   Feature Cards (homepage grid)
+   -------------------------------------------------------------------------- */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.card {
+  border: 1px solid var(--sidebar-color, #eeebee);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  background: var(--body-background-color, #fff);
+  transition: box-shadow 0.2s, transform 0.15s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 18px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+
+.card-icon { font-size: 2rem; margin-bottom: 0.5rem; }
+.card h3 { font-size: 1.05rem; margin: 0.4rem 0 0.5rem; }
+.card p { font-size: 0.88rem; color: #555; margin: 0 0 0.75rem; }
+
+/* --------------------------------------------------------------------------
+   Callout Boxes
+   -------------------------------------------------------------------------- */
+.callout {
+  border-left: 4px solid;
+  border-radius: 0 6px 6px 0;
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0;
+}
+
+.callout-warning {
+  background: var(--clr-warning-bg);
+  border-color: var(--clr-warning-border);
+  color: var(--clr-warning-text);
+}
+
+.callout-danger {
+  background: var(--clr-danger-bg);
+  border-color: var(--clr-danger-border);
+  color: var(--clr-danger-text);
+}
+
+.callout-info {
+  background: var(--clr-info-bg);
+  border-color: var(--clr-info-border);
+  color: var(--clr-info-text);
+}
+
+.callout-success {
+  background: var(--clr-success-bg);
+  border-color: var(--clr-success-border);
+  color: var(--clr-success-text);
+}
+
+.callout-title {
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+  font-size: 0.95rem;
+}
+
+/* --------------------------------------------------------------------------
+   Download Boxes
+   -------------------------------------------------------------------------- */
+.download-box {
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin: 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  background: var(--body-background-color, #fff);
+}
+
+.download-box-info { flex: 1 1 250px; }
+.download-box-info strong { display: block; font-size: 1rem; }
+.download-box-info span { font-size: 0.82rem; color: #666; font-family: monospace; word-break: break-all; }
+
+/* --------------------------------------------------------------------------
+   Table Enhancements (mobile horizontal scroll)
+   -------------------------------------------------------------------------- */
+.table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1rem 0;
+}
+
+.table-wrapper table {
+  min-width: 500px;
+}
+
+/* Zebra striping for frequency tables */
+table tbody tr:nth-child(even) {
+  background: rgba(0, 165, 80, 0.05);
+}
+
+/* --------------------------------------------------------------------------
+   Audience Tags (homepage "who is this for?")
+   -------------------------------------------------------------------------- */
+.audience-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.audience-tag {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: rgba(0, 165, 80, 0.08);
+  border: 1px solid rgba(0, 165, 80, 0.25);
+  border-radius: 8px;
+  padding: 0.6rem 1rem;
+  font-size: 0.9rem;
+}
+
+/* --------------------------------------------------------------------------
+   Star CTA Banner
+   -------------------------------------------------------------------------- */
+.star-cta {
+  background: linear-gradient(90deg, #1a1a2e, #0f3460);
+  color: #fff;
+  border-radius: 10px;
+  padding: 1.5rem 2rem;
+  text-align: center;
+  margin: 2.5rem 0;
+}
+
+.star-cta p {
+  margin: 0 0 1rem;
+  font-size: 1.05rem;
+  opacity: 0.9;
+}
+
+/* --------------------------------------------------------------------------
+   Step Numbers
+   -------------------------------------------------------------------------- */
+.step-list {
+  list-style: none;
+  padding: 0;
+  counter-reset: step-counter;
+}
+
+.step-list li {
+  counter-increment: step-counter;
+  position: relative;
+  padding: 0.75rem 1rem 0.75rem 3.5rem;
+  margin-bottom: 0.75rem;
+  border-left: 3px solid var(--clr-accent);
+  background: rgba(0, 165, 80, 0.04);
+  border-radius: 0 6px 6px 0;
+}
+
+.step-list li::before {
+  content: counter(step-counter);
+  position: absolute;
+  left: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: var(--clr-accent);
+  color: #fff;
+  width: 1.8rem;
+  height: 1.8rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+/* --------------------------------------------------------------------------
+   Responsive adjustments
+   -------------------------------------------------------------------------- */
+@media (max-width: 640px) {
+  .hero { padding: 2rem 1rem; }
+  .hero h1 { font-size: 1.5rem; }
+  .download-box { flex-direction: column; }
+}

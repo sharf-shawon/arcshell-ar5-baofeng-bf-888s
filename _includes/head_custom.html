@@ -1,0 +1,138 @@
+<!-- SEO: Structured Data + extra meta tags -->
+<!-- Injected into <head> on every page via Just the Docs head_custom include -->
+
+<!-- Canonical custom CSS -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<!-- Extra meta: keywords -->
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords }}">
+{% endif %}
+
+<!-- Open Graph image override -->
+{% if page.og_image %}
+<meta property="og:image" content="{{ page.og_image | absolute_url }}">
+{% else %}
+<meta property="og:image" content="{{ '/assets/images/arcshell-ar-5-pair.jpg' | absolute_url }}">
+{% endif %}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+{% if page.og_image %}
+<meta name="twitter:image" content="{{ page.og_image | absolute_url }}">
+{% else %}
+<meta name="twitter:image" content="{{ '/assets/images/arcshell-ar-5-pair.jpg' | absolute_url }}">
+{% endif %}
+
+<!-- Global WebSite Structured Data (JSON-LD) -->
+{% if page.url == "/" or page.url == "/index.html" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ site.title }}",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "description": "{{ site.description }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ site.url }}{{ site.baseurl }}/search/?query={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{% endif %}
+
+<!-- FAQPage Structured Data for Troubleshooting page -->
+{% if page.schema == "faq" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is my BaoFeng programming cable not recognized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most cable recognition issues are caused by missing or incorrect drivers. Download the CH340 or Prolific PL2303 driver for your cable chipset, ensure the radio is ON before connecting, and check Device Manager for the COM port. Some counterfeit Prolific chips require disabling driver signature enforcement on Windows."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a license to use BaoFeng BF-888S radios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. These radios are FCC Part 90 certified and require an Amateur Radio (Ham) Technician class license or higher to transmit legally in the United States. You can receive (listen) without a license. Transmitting without a license can result in fines up to $10,000."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I restore my BaoFeng BF-888S to factory defaults?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Download the factory default CHIRP .img file from this repository, open it in CHIRP (File > Open), connect your radio via programming cable, then upload via Radio > Upload to Radio. Factory default images are available for Arcshell AR-5, BaoFeng BF-888S, and Pxton PX-888S."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What CHIRP model should I select for the BF-888S?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In CHIRP, select Vendor: Baofeng, Model: BF-888S. This works for the BaoFeng BF-888S, Arcshell AR-5, Pxton PX-888S, and most generic BF-888S clones as they share identical hardware."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the range of the BaoFeng BF-888S?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Realistically expect 0.5–3 miles line-of-sight, 0.25–1 mile in urban areas, and 0.1–0.5 mile through buildings. With a repeater, range extends to 10–50+ miles. Marketing claims of '16 miles' are under ideal conditions only."
+      }
+    }
+  ]
+}
+</script>
+{% endif %}
+
+<!-- HowTo Structured Data for Programming pages -->
+{% if page.schema == "howto" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description }}",
+  "image": "{{ '/assets/images/arcshell-ar-5-pair.jpg' | absolute_url }}",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Install CHIRP Software",
+      "text": "Download and install CHIRP from chirpmyradio.com. Install the appropriate USB-to-serial driver for your programming cable."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Connect Your Radio",
+      "text": "Connect the programming cable to your radio and computer. Turn the radio ON. Verify the COM port appears in Device Manager."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Download Current Configuration",
+      "text": "In CHIRP, go to Radio > Download from Radio. Select your port, Vendor: Baofeng, Model: BF-888S. Save the backup."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Configure Channels",
+      "text": "Enter your desired frequencies, names, tones, and offsets in the CHIRP channel table."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Upload to Radio",
+      "text": "Go to Radio > Upload to Radio. Confirm settings and wait for completion. The radio will beep when done."
+    }
+  ]
+}
+</script>
+{% endif %}
