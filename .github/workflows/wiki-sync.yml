@@ -20,4 +20,4 @@ jobs:
           path: docs
           commit-message: "Sync docs to Wiki"
         env:
-          WIKI_ACTION_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WIKI_ACTION_TOKEN: ${{ secrets.GH_TOKEN }}
