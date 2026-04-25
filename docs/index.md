@@ -6,7 +6,7 @@ description: "The definitive beginner's guide for BaoFeng BF-888S, Arcshell AR-5
 permalink: /
 ---
 
-# 📡 Arcshell AR-5 & BaoFeng BF-888S Guide
+# 📡 Arcshell AR-5, BaoFeng BF-888S, Pxton PX-888s Guide
 
 ![Arcshell AR-5 Radio]({{ site.baseurl }}/assets/images/arcshell-ar-5.jpg)
 
